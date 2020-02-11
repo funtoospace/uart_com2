@@ -9,7 +9,6 @@
  *        Created:  02/09/2020 12:00:00 AM
  *       Revision:  none
  *         Author:  WL
- *   Organization:  
  *
  *             OS:  ubuntu 9.10
  *         Kernel:  V2.6.22.6
@@ -17,11 +16,10 @@
  *       	    arm-linux-gcc 3.4.6
  *          Board:  JZ2440-V3 smdk2440
  *
- *	Attention:  The level of com2 and com3 pin is TTL, you should connect com2/com3
- *		    to PC with TTL-to-USB bus. While com1 is converted to Micro-USB, it
- *		    can be connected to PC with a Miro USB line.
+ *	Attention:  The pin level of com2/com3 is TTL. The TTL-to-USB bus can be used to
+ *		    to connect com2/com3 and PC. While com1 is converted to Micro-USB
+ *		    port(RS232-to-USB), it can be connected to PC with a Miro USB line.
  *		    
  * =====================================================================================
  */
-
 
