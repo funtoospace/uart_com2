@@ -18,7 +18,7 @@
  *
  *	Attention:  The pin level of com2/com3 is TTL. The TTL-to-USB bus can be used to
  *		    to connect com2/com3 and PC. While com1 is converted to Micro-USB
- *		    port(RS232-to-USB), it can be connected to PC with a Miro USB line.
+ *		    port(via PL2303), it can be connected to PC with a Miro USB line.
  *		    
  * =====================================================================================
  */
